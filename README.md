@@ -6,6 +6,6 @@ Utilisation de NodeJS, Express et MongoDB pour créer des API REST :
 - lecture
 - suppression
 
-(Utilisation de Postman pour executer les requêtes)
+(Utilisation de Postman pour executer les requêtes et de mLab pour la BDD MongoDB)
 
 Simon Rousseau.
